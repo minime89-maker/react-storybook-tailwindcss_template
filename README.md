@@ -170,7 +170,7 @@
 <br />
 <br />
 
-## Configuration ```package.json``` and additional dependencies
+## Configure ```package.json``` and install additional dependencies
 <hr/>
 <br />
 
